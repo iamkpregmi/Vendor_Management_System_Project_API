@@ -41,6 +41,11 @@ In this Project I have implement Custom URL
 
 **Run Your Project.**
   : python manage.py runserver
+  
+Admin ID and Password
+      : Userid: admin
+      : Password: admin
+
 #
 ## Authors
 
